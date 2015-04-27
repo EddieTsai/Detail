@@ -1,6 +1,0 @@
-framework module DetailFramework {
-  umbrella header "DetailFramework.h"
-
-  export *
-  module * { export * }
-}
