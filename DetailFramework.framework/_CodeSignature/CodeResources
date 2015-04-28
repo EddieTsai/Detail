@@ -4,38 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Detail.storyboardc/Info-8.0+.plist</key>
-		<data>
-		6TMeRMOFgRRCgCAVy+02FVeBABo=
-		</data>
-		<key>Detail.storyboardc/Info.plist</key>
-		<data>
-		6TMeRMOFgRRCgCAVy+02FVeBABo=
-		</data>
-		<key>Detail.storyboardc/N2g-HD-R9o-view-KFH-Ju-nH4.nib/objects-8.0+.nib</key>
-		<data>
-		gaPte7Nu3GFObpfK2Eh+GFglLAg=
-		</data>
-		<key>Detail.storyboardc/N2g-HD-R9o-view-KFH-Ju-nH4.nib/objects.nib</key>
-		<data>
-		n6gvQZjzwf99HLznmdZNqklmHVA=
-		</data>
-		<key>Detail.storyboardc/N2g-HD-R9o-view-KFH-Ju-nH4.nib/runtime.nib</key>
-		<data>
-		4DaIfFPo6jK67BYTSnXCMQkpeMg=
-		</data>
-		<key>Detail.storyboardc/kTest.nib/objects-8.0+.nib</key>
-		<data>
-		yahKRrD9naYrOoRGJEHef1wXbcU=
-		</data>
-		<key>Detail.storyboardc/kTest.nib/objects.nib</key>
-		<data>
-		Kpn0ffoSDzhBg57Ivxqtm2cKvgo=
-		</data>
-		<key>Detail.storyboardc/kTest.nib/runtime.nib</key>
-		<data>
-		VrGDKhoC/5ND6Plk7qLLCzrqGyI=
-		</data>
 		<key>Headers/DetailTest.h</key>
 		<data>
 		y4xMFjvy1iZ/Qi2m/Ea+qnzFaKA=
@@ -48,69 +16,9 @@
 		<data>
 		6juHmRDrKl7O+U2wf6zdmH48UGo=
 		</data>
-		<key>TestXib~ipad.nib/objects-8.0+.nib</key>
-		<data>
-		36h+9WVJ8c6bM4hQ0Dq0pu+eBMM=
-		</data>
-		<key>TestXib~ipad.nib/objects.nib</key>
-		<data>
-		9pYZCF/NeSK3HTGA+YNvxzG58JQ=
-		</data>
-		<key>TestXib~ipad.nib/runtime.nib</key>
-		<data>
-		hXjzHqjMYF0V0zwv9PXM4h3IknQ=
-		</data>
-		<key>TestXib~iphone.nib/objects-8.0+.nib</key>
-		<data>
-		hxOM/2DU3JxW57+85QkS7Ch7NEQ=
-		</data>
-		<key>TestXib~iphone.nib/objects.nib</key>
-		<data>
-		7AjF62N7dm92lyQS6WC5NcWz3jw=
-		</data>
-		<key>TestXib~iphone.nib/runtime.nib</key>
-		<data>
-		uHqkgTKz6QCT3I+K05ZyuSMhysw=
-		</data>
-		<key>文艺字2-1.jpg</key>
-		<data>
-		ZxA0C8TVvEheW3Jf9d7jS7bKM6g=
-		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Detail.storyboardc/Info-8.0+.plist</key>
-		<data>
-		6TMeRMOFgRRCgCAVy+02FVeBABo=
-		</data>
-		<key>Detail.storyboardc/Info.plist</key>
-		<data>
-		6TMeRMOFgRRCgCAVy+02FVeBABo=
-		</data>
-		<key>Detail.storyboardc/N2g-HD-R9o-view-KFH-Ju-nH4.nib/objects-8.0+.nib</key>
-		<data>
-		gaPte7Nu3GFObpfK2Eh+GFglLAg=
-		</data>
-		<key>Detail.storyboardc/N2g-HD-R9o-view-KFH-Ju-nH4.nib/objects.nib</key>
-		<data>
-		n6gvQZjzwf99HLznmdZNqklmHVA=
-		</data>
-		<key>Detail.storyboardc/N2g-HD-R9o-view-KFH-Ju-nH4.nib/runtime.nib</key>
-		<data>
-		4DaIfFPo6jK67BYTSnXCMQkpeMg=
-		</data>
-		<key>Detail.storyboardc/kTest.nib/objects-8.0+.nib</key>
-		<data>
-		yahKRrD9naYrOoRGJEHef1wXbcU=
-		</data>
-		<key>Detail.storyboardc/kTest.nib/objects.nib</key>
-		<data>
-		Kpn0ffoSDzhBg57Ivxqtm2cKvgo=
-		</data>
-		<key>Detail.storyboardc/kTest.nib/runtime.nib</key>
-		<data>
-		VrGDKhoC/5ND6Plk7qLLCzrqGyI=
-		</data>
 		<key>Headers/DetailTest.h</key>
 		<data>
 		y4xMFjvy1iZ/Qi2m/Ea+qnzFaKA=
@@ -118,34 +26,6 @@
 		<key>Modules/module.modulemap</key>
 		<data>
 		6juHmRDrKl7O+U2wf6zdmH48UGo=
-		</data>
-		<key>TestXib~ipad.nib/objects-8.0+.nib</key>
-		<data>
-		36h+9WVJ8c6bM4hQ0Dq0pu+eBMM=
-		</data>
-		<key>TestXib~ipad.nib/objects.nib</key>
-		<data>
-		9pYZCF/NeSK3HTGA+YNvxzG58JQ=
-		</data>
-		<key>TestXib~ipad.nib/runtime.nib</key>
-		<data>
-		hXjzHqjMYF0V0zwv9PXM4h3IknQ=
-		</data>
-		<key>TestXib~iphone.nib/objects-8.0+.nib</key>
-		<data>
-		hxOM/2DU3JxW57+85QkS7Ch7NEQ=
-		</data>
-		<key>TestXib~iphone.nib/objects.nib</key>
-		<data>
-		7AjF62N7dm92lyQS6WC5NcWz3jw=
-		</data>
-		<key>TestXib~iphone.nib/runtime.nib</key>
-		<data>
-		uHqkgTKz6QCT3I+K05ZyuSMhysw=
-		</data>
-		<key>文艺字2-1.jpg</key>
-		<data>
-		ZxA0C8TVvEheW3Jf9d7jS7bKM6g=
 		</data>
 	</dict>
 	<key>rules</key>
